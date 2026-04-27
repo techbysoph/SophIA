@@ -2,7 +2,7 @@
 
 ## ¿Qué es SophIA?
 
-SophIA es una interfaz web completa para interactuar con inteligencia artificial usando la API de Anthropic (Claude). Tiene 5 modos de comportamiento, soporte para Markdown, historial de conversación y es completamente local.
+SophIA es una interfaz web completa para interactuar con inteligencia artificial usando la API de Anthropic. Tiene 5 modos de comportamiento, soporte para Markdown, historial de conversación y es completamente local.
 
 ---
 
@@ -55,11 +55,11 @@ Luego abre la URL que te indique la terminal.
 
 | Modo | Temperatura | Uso ideal |
 |------|-------------|-----------|
-| 💬 General | 0.45 | Conversación cotidiana |
-| 🧩 Razonamiento | 0.20 | Análisis, lógica, paso a paso |
-| ✨ Creativo | 0.88 | Escritura, poesía, ideas |
-| 💻 Código | 0.10 | Programación técnica |
-| 📚 Factual | 0.10 | Datos precisos, sin alucinaciones |
+| General | 0.45 | Conversación cotidiana |
+| Razonamiento | 0.20 | Análisis, lógica, paso a paso |
+| Creativo | 0.88 | Escritura, poesía, ideas |
+| Código | 0.10 | Programación técnica |
+| Factual | 0.10 | Datos precisos, sin alucinaciones |
 
 ---
 
